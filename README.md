@@ -39,6 +39,6 @@
 
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%232fa5f8.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23ff9b00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Indesign](https://img.shields.io/badge/Adobe_XD-%23470019.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![XD](https://img.shields.io/badge/Adobe_XD-%23450034.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![XD](https://img.shields.io/badge/figma-%23a161fd.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Indesign](https://img.shields.io/badge/Adobe_Indesign-%23ff3066.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![XD](https://img.shields.io/badge/Adobe_XD-%23ff61f6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23a161fd.svg?style=for-the-badge&logo=figma&logoColor=white)
