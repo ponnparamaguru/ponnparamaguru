@@ -38,7 +38,7 @@
 <h3 align="left">Tools: </h3>
 
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%232fa5f8.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23300000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23300000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=ff9b00)
 ![Indesign](https://img.shields.io/badge/Adobe_XD-%23470019.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe_XD-%23450034.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![XD](https://img.shields.io/badge/figma-%23a161fd.svg?style=for-the-badge&logo=figma&logoColor=white)
