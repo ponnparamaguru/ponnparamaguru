@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnparamaguru-chandrasekar-a5847b1a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ponnparamaguru_) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ponnparamaguru) 
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/ponnparamaguru) 
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23f89f1b.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ponnparamaguru) 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E01ea65.svg?logo=hackerrank&logoColor=white)](http://hackerrank.com/ponnparamaguru) 
