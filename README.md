@@ -15,8 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ponnparamaguru_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/ponnparamaguru-chandrasekar-a5847b1a7/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnparamaguru-chandrasekar-a5847b1a7/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ponnparamaguru) 
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ponnparamaguru) 
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E4405F.svg?logo=hackerrank&logoColor=white)](http://hackerrank.com/ponnparamaguru) 
 
 <h3 align="left">Tech Stack: </h3>
 
