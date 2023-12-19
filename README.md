@@ -22,6 +22,7 @@
 <a href="https://www.codechef.com/users/ponnparamaguru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ponnparamaguru" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Tech Stack: </h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
