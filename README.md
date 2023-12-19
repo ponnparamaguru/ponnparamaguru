@@ -34,3 +34,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%23f89917.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h3 align="left">Tools: </h3>
+
+![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23031d34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-%23300000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Indesign](https://img.shields.io/badge/Adobe-XD-%23470019.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![XD](https://img.shields.io/badge/Adobe-XD-%23450034.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+![XD](https://img.shields.io/badge/figma-%23a161fd.svg?style=for-the-badge&logo=figma&logoColor=white)
