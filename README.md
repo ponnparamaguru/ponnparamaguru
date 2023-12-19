@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 👨‍💻 All of my projects are available at [https://ponnparamaguru.github.io/](https://ponnparamaguru.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/ponnparamaguru](https://github.com/ponnparamaguru)
 
 - 📫 How to reach me **ponnparamaguru@outlook.com**
 <br><br>
