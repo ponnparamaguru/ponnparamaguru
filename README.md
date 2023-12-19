@@ -18,8 +18,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ponnparamaguru_) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ponnparamaguru) 
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23f89f1b.svg?logo=leetcode&logoColor=black)](https://leetcode.com/ponnparamaguru) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E01ea65.svg?logo=hackerrank&logoColor=black)](http://hackerrank.com/ponnparamaguru) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23f89f1b.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ponnparamaguru) 
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E01ea65.svg?logo=hackerrank&logoColor=white)](http://hackerrank.com/ponnparamaguru) 
 
 <h3 align="left">Tech Stack: </h3>
 
