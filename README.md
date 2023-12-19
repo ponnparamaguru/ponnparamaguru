@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ponnparamaguru</h1>
-<h5 align="center">I am a enthusiastic, reliable, dedicated, and organized person. Passionate Developer. I have strong technical skills as well as excellent interpersonal skills. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using new techologies.<br><br></h5>
+<h4 align="center">I am a enthusiastic, reliable, dedicated, and organized person. Passionate Developer. I have strong technical skills as well as excellent interpersonal skills. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using new techologies.<br><br></h4>
 
 - 🌱 I’m currently learning **MERN Stack**
 
