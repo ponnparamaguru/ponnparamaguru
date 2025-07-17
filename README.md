@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ponnparamaguru</h1>
 <h3 align="center">I am a enthusiastic, reliable, dedicated, and organized person. Passionate Developer. I have strong technical skills as well as excellent interpersonal skills. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using new techologies.<br><br></h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ponnparamaguru](https://github.com/ponnparamaguru)
-
-- 📫 How to reach me **ponnparamaguru@outlook.com**
-<br><br>
-
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnparamaguru-chandrasekar-a5847b1a7/)
