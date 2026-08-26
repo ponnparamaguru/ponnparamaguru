@@ -87,7 +87,7 @@ Building reliable and secure remote-access and edge-computing environments.
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,flutter,ts,sql" />
 </p>
 
 ### ⚙️ Development
