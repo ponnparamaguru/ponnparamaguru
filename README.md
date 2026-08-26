@@ -1,6 +1,6 @@
 # 👨‍💻 Ponnparamaguru
 
-<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;IoT+%7C+Embedded+Systems+%7C+Networking;+connect+the+physical+%26+digital+world;Always+learning.+Always+building." /> </p>
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;IoT+%7C+Embedded+Systems+%7C+Networking;+Connect+the+physical+%26+digital+world;Always+learning.+Always+building." /> </p>
 <p align="center">
   <a href="https://github.com/ponnparamaguru">
     <img src="https://img.shields.io/github/followers/ponnparamaguru?label=Followers&style=for-the-badge&color=181717" />
