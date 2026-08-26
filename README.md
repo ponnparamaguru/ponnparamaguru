@@ -1,35 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ponnparamaguru</h1>
-<h3 align="center">I am a enthusiastic, reliable, dedicated, and organized person. Passionate Developer. I have strong technical skills as well as excellent interpersonal skills. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using new techologies.<br><br></h3>
+# 👋 Hey, I'm Ponnparamaguru
 
-<h3 align="left">Connect with me:</h3>
+### Software Engineer • IoT • Embedded Systems • Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnparamaguru-chandrasekar-a5847b1a7/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ponnparamaguru_) 
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/ponnparamaguru) 
+I build software that connects **devices, data, and people** — from embedded systems and MQTT communication to networking, automation, and full-stack applications.
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23f89f1b.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ponnparamaguru) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E01ea65.svg?logo=hackerrank&logoColor=white)](http://hackerrank.com/ponnparamaguru) 
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  BUILD  →  CONNECT  →  AUTOMATE  →  SOLVE                  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<h3 align="left">Tech Stack: </h3>
+## 🚀 What I Work On
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/React-%23149ECA.svg?style=for-the-badge&logo=react&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-%2343853d.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%23f89917.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Mongodb](https://img.shields.io/badge/mongodb-%23439934.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23f03c2e.svg?style=for-the-badge&logo=git&logoColor=white)
+* 🔧 **IoT & Embedded Systems** — device communication, telemetry & data processing
+* 📡 **MQTT & Networking** — brokers, topics, routing & remote connectivity
+* 🐧 **Linux & Edge Computing** — embedded Linux, SSH, services & automation
+* 💻 **Software Development** — backend systems, APIs & automation
+* 🌐 **Networking & Remote Access** — VPNs, routing, secure device access
+* 🧩 **Problem Solving** — turning complex technical problems into practical solutions
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Graphics Designing Tools: </h3>
+### Languages
 
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%232fa5f8.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23ff9b00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Indesign](https://img.shields.io/badge/Adobe_Indesign-%23ff3066.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![XD](https://img.shields.io/badge/Adobe_XD-%23ff61f6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23a161fd.svg?style=for-the-badge&logo=figma&logoColor=white)
+`C` `C++` `Python` `Java` `JavaScript` `SQL`
+
+### Backend & Development
+
+`Node.js` `REST APIs` `MQTT` `Git` `GitHub`
+
+### Embedded & IoT
+
+`Embedded Linux` `ESP32` `Arduino` `Rock Pi` `Serial Communication`
+
+### Networking
+
+`TCP/IP` `MQTT` `OpenVPN` `SSH` `Routing` `Windows Networking` `Linux Networking`
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ponnparamaguru&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ponnparamaguru&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+## 🧠 Currently Exploring
+
+```text
+IoT Architecture
+      ↓
+Edge Computing
+      ↓
+Secure Networking
+      ↓
+Distributed Systems
+      ↓
+Automation
+```
+
+Always experimenting with new technologies and looking for better ways to build, connect, and automate systems.
+
+## 🏆 Coding Journey
+
+🔥 **1,000+ Days of Coding on LeetCode**
+
+Consistency beats intensity.
+
+> Solve. Learn. Build. Repeat.
+
+## 📌 Featured Projects
+
+🚧 **More projects coming soon...**
+
+Check out my repositories to see what I'm building and experimenting with.
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/)
+* 🐙 GitHub — [@ponnparamaguru](https://github.com/ponnparamaguru)
+* 🌎 Portfolio — [ponnparamaguru.github.io](https://ponnparamaguru.github.io)
+
+---
+
+### ⚡ *Build things that solve real problems.*
+
+<p align="center">
+  <sub>Made with curiosity, code & caffeine ☕</sub>
+</p>
