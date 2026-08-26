@@ -1,4 +1,4 @@
-# 👨‍💻 Ponnparamaguru | Software Engineer @ Salieabs Solutions LLP
+# 👨‍💻 Ponnparamaguru · Software Engineer @ Salieabs Solutions LLP
 
 <p align="center">   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;IoT+%7C+Embedded+Systems+%7C+Networking;+Connect+the+physical+%26+digital+world;Always+learning.+Always+building." /> </p>
 <p align="center">
